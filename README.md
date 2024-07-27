@@ -1,6 +1,6 @@
 # movie_recommendation_apps
 
-A new Flutter project.
+FINAL PROJECT TC 14 "HOW TO BECOME A MOBILE DEVELOPER"
 
 ## Getting Started
 
